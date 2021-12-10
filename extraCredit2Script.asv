@@ -1,0 +1,8 @@
+w=100:10:500;
+x=extraCredit2(100,280,w)
+
+for(w=100:10:500)
+    x2=extraCredit2(100,280,w)
+end
+
+while(
